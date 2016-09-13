@@ -1,7 +1,7 @@
 {
-  "name": "build-sass",
+  "name": "build-wt",
   "version": "0.0.0",
-  "description": "Atom Build provider for wt, compiles Sass/SCSS",
+  "description": "Atom Build provider for Wellington, compiles Sass/SCSS",
   "repository": "https://github.com/idleberg/atom-build-wt",
   "license": "MIT",
   "keywords": [
