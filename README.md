@@ -44,6 +44,7 @@ Before you can build, select an active target with your preferred build option.
 Available targets:
 
 * `Wellington [compact|compressed|expanded]`
+* `Watch Wellington [compact|compressed|expanded]`
 
 ### Shortcuts
 
