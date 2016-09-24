@@ -35,6 +35,13 @@ Clone repository as `build-wt`:
 $ git clone https://github.com/idleberg/atom-build-wt build-wt
 ```
 
+Install Node dependencies:
+
+```bash
+cd build-wt
+npm install
+```
+
 ## Usage
 
 ### Build
