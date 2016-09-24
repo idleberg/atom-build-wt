@@ -38,8 +38,8 @@ $ git clone https://github.com/idleberg/atom-build-wt build-wt
 Install Node dependencies:
 
 ```bash
-cd build-wt
-npm install
+$ cd build-wt
+$ npm install
 ```
 
 ## Usage
