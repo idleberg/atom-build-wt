@@ -35,10 +35,9 @@ Clone repository as `build-wt`:
 $ git clone https://github.com/idleberg/atom-build-wt build-wt
 ```
 
-Install Node dependencies:
+Inside the cloned directory, install Node dependencies:
 
 ```bash
-$ cd build-wt
 $ yarn || npm install
 ```
 
