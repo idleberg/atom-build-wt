@@ -17,7 +17,7 @@ Install `build-wt` from Atom's [Package Manager](http://flight-manual.atom.io/us
 
 `$ apm install build-wt`
 
-### GitHub
+### Using Git
 
 Change to your Atom packages directory:
 
