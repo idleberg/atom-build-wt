@@ -4,7 +4,7 @@
 [![apm](https://img.shields.io/apm/v/build-wt.svg?style=flat-square)](https://atom.io/packages/build-wt)
 [![apm](https://img.shields.io/apm/dm/build-wt.svg?style=flat-square)](https://atom.io/packages/build-wt)
 [![Travis](https://img.shields.io/travis/idleberg/atom-build-wt.svg?style=flat-square)](https://travis-ci.org/idleberg/atom-build-wt)
-[![David](https://img.shields.io/david/idleberg/atom-build-wt.svg?style=flat-square)](https://david-dm.org/idleberg/atom-build-wt#info=dependencies)
+[![David](https://img.shields.io/david/idleberg/atom-build-wt.svg?style=flat-square)](https://david-dm.org/idleberg/atom-build-wt)
 [![David](https://img.shields.io/david/dev/idleberg/atom-build-wt.svg?style=flat-square)](https://david-dm.org/idleberg/atom-build-wt?type=dev)
 
 [Atom Build](https://atombuild.github.io/) provider for [Wellington](https://github.com/wellington/wellington), compiles Sass/SCSS into CSS. Supports the [linter](https://atom.io/packages/linter) package for error highlighting.
