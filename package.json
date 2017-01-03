@@ -5,7 +5,7 @@
   "repository": "https://github.com/idleberg/atom-build-wt",
   "license": "MIT",
   "keywords": [
-    "build-provider",
+    "buildprovider",
     "compile",
     "sass",
     "scss",
@@ -27,7 +27,7 @@
     }
   },
   "package-deps": [
-    "build-provider"
+    "build"
   ],
   "dependencies": {
     "atom-package-deps": "^4.3.1"
